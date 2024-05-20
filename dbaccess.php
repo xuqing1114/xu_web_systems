@@ -40,7 +40,8 @@ $password = 'X97.1999';
                                                                      Last Access Time<br><br>
                                                                      <?php foreach ($rec as $a):?>
                                                                              <?=escape1($a)?><br>
-                                                                             <?php endforeach; ?>
+									     <?php endforeach; ?>
+                                                                           Add comment by Kyo Sei
                                                                              </body>
                                                                              </html>
 
