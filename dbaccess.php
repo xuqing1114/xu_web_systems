@@ -42,6 +42,7 @@ $password = 'X97.1999';
                                                                              <?=escape1($a)?><br>
 									     <?php endforeach; ?>
                                                                            Add comment by Kyo Sei
+									     Add comment at 2024/05/30
                                                                              </body>
                                                                              </html>
 
